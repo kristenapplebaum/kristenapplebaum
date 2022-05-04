@@ -22,17 +22,13 @@ The objective is simple: keep hopping trains and dodging obstacles in order to a
 1. To get started, simply tap the screen to start running.
 2. Swipe left to jump left, swipe right to jump right, swipe up to jump, and swipe down to duck.
 3. While running through the subway you can collect coins.
-
 <img src="coins.PNG"
      width="250" 
-     height="450" />
-     
+     height="450" />  
 5. You can use these coins to buy new characters, accessories, and powerups!
-
 <img src="characters.PNG"
      width="250" 
      height="450" />
-
 7. Watch out for obstacles! if you trip on something, the security gaurd will get closer. If you trip again before getting far enough ahead, he will catch you and the game is over.
 8. Subway Surfers also includes optional challenges to win extra prizes.
 
