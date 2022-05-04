@@ -23,7 +23,7 @@ The objective is simple: keep hopping trains and dodging obstacles in order to a
 2. Swipe left to jump left, swipe right to jump right, swipe up to jump, and swipe down to duck.
 3. While running through the subway you can collect coins. These coins can be used to buy new characters, accessaries, and powerups.
 
-<p float="left">
+<p align="middle">
   <img src="/coins.PNG" width="200" />
   <img src="/characters.PNG" width="200" />
 </p>
